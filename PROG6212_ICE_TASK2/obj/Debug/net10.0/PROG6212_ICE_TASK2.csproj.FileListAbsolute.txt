@@ -1,0 +1,14 @@
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\bin\Debug\net10.0\PROG6212_ICE_TASK2.exe
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\bin\Debug\net10.0\PROG6212_ICE_TASK2.deps.json
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\bin\Debug\net10.0\PROG6212_ICE_TASK2.runtimeconfig.json
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\bin\Debug\net10.0\PROG6212_ICE_TASK2.dll
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\bin\Debug\net10.0\PROG6212_ICE_TASK2.pdb
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\PROG6212_ICE_TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\PROG6212_ICE_TASK2.AssemblyInfoInputs.cache
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\PROG6212_ICE_TASK2.AssemblyInfo.cs
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\PROG6212_ICE_TASK2.csproj.CoreCompileInputs.cache
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\PROG6212_ICE_TASK2.dll
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\refint\PROG6212_ICE_TASK2.dll
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\PROG6212_ICE_TASK2.pdb
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\PROG6212_ICE_TASK2.genruntimeconfig.cache
+C:\Users\heinr\OneDrive\Desktop\coding foldeer\PROG6212_ICE_TASK2\PROG6212_ICE_TASK2\obj\Debug\net10.0\ref\PROG6212_ICE_TASK2.dll
